@@ -81,6 +81,4 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Chetan Verma**  
-B.Tech CSE Graduate (2025)  
-GitHub: *Add your GitHub link here*
-
+B.Tech CSE Graduate (2025) 
